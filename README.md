@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Sara 👋
 
-<!--
-**sara200-xy/sara200-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Cloud Engineer focused on **API‑first systems**, **Azure**, and **agent‑ready architectures**.
 
-Here are some ideas to get you started:
+### What I work on
+- Designing FastAPI backends with clean OpenAPI contracts
+- Building cloud‑deployed services on Azure
+- Making systems agent‑ready (LLMs consume APIs, not databases)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+🚀 **Agent‑Ready CI Pipeline KPI Service**
+
+- FastAPI + Azure SQL backend exposing pipeline health via a single API
+- Integrated with a Microsoft Foundry agent using OpenAPI
+- Built with separation of concerns and enterprise patterns
+
+👉 https://github.com/<your-username>/agent-ready-ci-pipeline-kpi
+
+### Tech Stack
+- Backend: Python, FastAPI
+- Cloud: Azure App Service, Azure SQL
+- APIs: OpenAPI 3.0
+- AI / Agents: Microsoft Foundry
+
+### Connect
+- 💼 LinkedIn: <your-link>
