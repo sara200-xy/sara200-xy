@@ -1,4 +1,4 @@
-# Hi, I’m Sara 👋
+# Hi, I’m Sara
 
 Backend & Cloud Engineer focused on **API‑first systems**, **Azure**, and **agent‑ready architectures**.
 
@@ -14,7 +14,7 @@ Backend & Cloud Engineer focused on **API‑first systems**, **Azure**, and **ag
 - Integrated with a Microsoft Foundry agent using OpenAPI
 - Built with separation of concerns and enterprise patterns
 
-👉 https://github.com/<your-username>/agent-ready-ci-pipeline-kpi
+https://github.com/<your-username>/agent-ready-ci-pipeline-kpi
 
 ### Tech Stack
 - Backend: Python, FastAPI
@@ -23,4 +23,4 @@ Backend & Cloud Engineer focused on **API‑first systems**, **Azure**, and **ag
 - AI / Agents: Microsoft Foundry
 
 ### Connect
-- 💼 LinkedIn: <your-link>
+- 💼 LinkedIn: www.linkedin.com/in/sarasusanb
